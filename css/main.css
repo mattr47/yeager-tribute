@@ -1,0 +1,45 @@
+body {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.jumboimg {
+  background-color: #f2f2f2;
+}
+
+.main {
+  margin: auto;
+}
+
+ul {
+  margin: auto;
+  width: 100%
+}
+
+li {
+  font-size: .6em;
+  line-height: 1.5;
+}
+
+.main p {
+  font-size: .8em;
+}
+
+.figure {
+  padding-top: 1%;
+  width: 98%;
+  margin: auto;
+}
+
+.footer {
+  position: absolute;
+  bottom: 1;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 40px;
+  background-color: #f2f2f2;
+}
+
+.footer p {
+  padding-top: 1.5%;
+}
